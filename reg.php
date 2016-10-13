@@ -66,57 +66,54 @@ if (!$conn) {
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>AUREOLE Techno Cultural fest 2016 : Registration</title>
-    <!-- <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-        <link href="css/jquery.selectbox.css" type="text/css" rel="stylesheet" /> -->
-    <!-- Mobile Specific Metas
-    ================================================== -->
+    
+    
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- CSS
-    ================================================== -->
-    <!-- Bootstrap css file-->
+    
+    
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Font awesome css file-->
+    
     <link href="css/font-awesome.min.css" rel="stylesheet">
-    <!-- Superslide css file-->
+    
     <link rel="stylesheet" href="css/superslides.css">
-    <!-- Slick slider css file -->
+    
     <link href="css/slick.css" rel="stylesheet">
-    <!-- Circle counter cdn css file -->
+    
     <link rel='stylesheet prefetch' href='https://cdn.rawgit.com/pguso/jquery-plugin-circliful/master/css/jquery.circliful.css'>
-    <!-- smooth animate css file -->
+    
     <link rel="stylesheet" href="css/animate.css">
-    <!-- preloader -->
+    
     <link rel="stylesheet" href="css/queryLoader.css" type="text/css" />
-    <!-- gallery slider css -->
+    
     <link type="text/css" media="all" rel="stylesheet" href="css/jquery.tosrus.all.css" />
-    <!-- Default Theme css file -->
+    
     <link id="switcher" href="css/themes/default-theme.css" rel="stylesheet">
-    <!-- Main structure css file -->
+    
     <link href="style.css" rel="stylesheet">
-    <!-- Google fonts -->
+    
     <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Varela' rel='stylesheet' type='text/css'>
-    <!-- SCROLL TOP BUTTON -->
+    
     <a class="scrollToTop" href="#"></a>
-    <!-- END SCROLL TOP BUTTON -->
-    <!--=========== BEGIN HEADER SECTION ================-->
+    
+    
     <header id="header">
-        <!-- BEGIN MENU -->
+        
         <div class="menu_area">
             <nav class="navbar navbar-default" role="navigation">
                 <div class="container">
                     <div class="navbar-header">
-                        <!-- FOR MOBILE VIEW COLLAPSED BUTTON -->
+                        
                         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                             <span class="sr-only">Toggle navigation</span>
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <!-- LOGO -->
-                        <!-- IMG BASED LOGO  -->
+                        
+                        
                         <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo" height="100" width="250"></a>
-                        <!-- TEXT BASED LOGO -->
+                        
                         <a class="navbar-brand" href="index.html"><span style="color:orange">&nbsp;&nbsp;&nbsp;AUREOLE</span> &nbsp;<span style="color:white">TECHNO </span> <span> CULTURAL <span style="color:white"> FEST</span> <span style="color:green">2016</span></a>
                     </div>
                     <div id="navbar" class="navbar-collapse collapse">
@@ -130,13 +127,13 @@ if (!$conn) {
                             <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </div>
-                    <!--/.nav-collapse -->
+                    
                 </div>
             </nav>
         </div>
-        <!-- END MENU -->
+        
     </header>
-    <!--=========== END HEADER SECTION ================-->
+    
     <script type="text/javascript" src="countries.js"></script>
     <br></br>
 </head>
@@ -762,8 +759,7 @@ if (!$conn) {
                             <br> </br>
                             <input type="submit" value="Submit" name="submit" class="wpcf7-submit">
                         </form>
-<!--                         The total amount to be paid:<INPUT type="text" name="amt" id="amt" Size=8 readonly> 
-                     -->                    </div>
+                    </div>
                 </div>
 
 
@@ -832,27 +828,26 @@ if (!$conn) {
                     return true;
                 }
                 </script>
-                <!-- Javascript Files
-    ================================================== -->
-                <!-- initialize jQuery Library -->
+                
+                
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-                <!-- Preloader js file -->
+                
                 <script src="js/queryloader2.min.js" type="text/javascript"></script>
-                <!-- For smooth animatin  -->
+                
                 <script src="js/wow.min.js"></script>
-                <!-- Bootstrap js -->
+                
                 <script src="js/bootstrap.min.js"></script>
-                <!-- slick slider -->
+                
                 <script src="js/slick.min.js"></script>
-                <!-- superslides slider -->
+                
                 <script src="js/jquery.easing.1.3.js"></script>
                 <script src="js/jquery.animate-enhanced.min.js"></script>
                 <script src="js/jquery.superslides.min.js" type="text/javascript" charset="utf-8"></script>
-                <!-- for circle counter -->
+                
                 <script src='https://cdn.rawgit.com/pguso/jquery-plugin-circliful/master/js/jquery.circliful.min.js'></script>
-                <!-- Gallery slider -->
+                
                 <script type="text/javascript" language="javascript" src="js/jquery.tosrus.min.all.js"></script>
-                <!-- Custom js-->
+                
                 <script src="js/custom.js"></script>
 </body>
 
