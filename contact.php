@@ -165,7 +165,7 @@ if (!$conn) {
     
     
     <section id="googleMap">
-        <<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3667.4059978630294!2d79.9848337!3d23.1918702!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3981aedd33095901%3A0xdc3ab3465781aba6!2sJabalpur+Engineering+College!5e0!3m2!1sen!2sin!4v1453575563513" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3667.4059978630294!2d79.9848337!3d23.1918702!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3981aedd33095901%3A0xdc3ab3465781aba6!2sJabalpur+Engineering+College!5e0!3m2!1sen!2sin!4v1453575563513" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
     </section>
     
     <br>
